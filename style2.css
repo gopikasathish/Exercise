@@ -1,0 +1,26 @@
+*{
+	margin :0;
+	padding : 0;
+	font-family:sans-serif;
+}
+.container{
+	width:150%;
+	height:150%;
+	background:#42455a;
+}
+.menu ul{
+	display: inline-flex;
+	margin:50px;
+	}
+.menu ul li{
+	list-style:none;
+	margin:0 20px;
+	color:#b2b1b1;
+	cursor:pointer;
+	}
+.logo img{
+         
+         width: 10px; 
+         margin-top:-7px;
+         margin-right:10px;
+      	}
